@@ -5,3 +5,9 @@ main folder : JSP Eclipse project
 sql file : Mysql Database file
 
 Just download the code, import in eclipse, create database in MySql and source from sql file.
+
+Created By :
+Devashish Prasad
+Kshitij Kapadni
+Ayan Gadpal
+Manish Visave
